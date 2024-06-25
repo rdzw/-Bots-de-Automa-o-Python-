@@ -1,0 +1,79 @@
+1719347972531	geckodriver	INFO	Listening on 127.0.0.1:50690
+1719347975600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileD7iAJ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719347975976	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719347976143	Marionette	INFO	Listening on port 50702
+Read port: 50702
+1719347976356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.botcity.dev/, line 22: ReferenceError: Weglot is not defined
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+1719347980547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://pt-br.botcity.dev/, line 23: ReferenceError: Weglot is not defined
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://pt-br.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+1719347987982	Marionette	INFO	Stopped listening on port 50702
+JavaScript warning: https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.d23a5bd83.js, line 23: Script terminated by timeout at:
+r@https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.d23a5bd83.js:23:377806
+
+Dynamically enable window occlusion 1
+1719348804511	geckodriver	INFO	Listening on 127.0.0.1:50947
+1719348807603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofile8Ms3dG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719348807958	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719348808126	Marionette	INFO	Listening on port 50961
+Read port: 50961
+1719348808319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1719348814511	Marionette	INFO	Stopped listening on port 50961
+Dynamically enable window occlusion 1
+1719349755328	geckodriver	INFO	Listening on 127.0.0.1:51175
+1719349758412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileSUrJ7G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719349758742	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719349758891	Marionette	INFO	Listening on port 51189
+Read port: 51189
+1719349759070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1719349777296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1719349777414	Marionette	INFO	Stopped listening on port 51189
+Dynamically enable window occlusion 1
+1719349830883	geckodriver	INFO	Listening on 127.0.0.1:51246
+1719349833945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileEkqm53"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719349834270	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719349834416	Marionette	INFO	Listening on port 51259
+Read port: 51259
+1719349834593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1719349841276	Marionette	INFO	Stopped listening on port 51259
+Dynamically enable window occlusion 1
+1719349854252	geckodriver	INFO	Listening on 127.0.0.1:51305
+1719349857328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileVLWaO2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719349857655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719349857800	Marionette	INFO	Listening on port 51317
+Read port: 51317
+1719349857981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1719349866349	Marionette	INFO	Stopped listening on port 51317
+Dynamically enable window occlusion 1
+1719350373820	geckodriver	INFO	Listening on 127.0.0.1:51505
+1719350376886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileFhaBEx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719350377154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719350377274	Marionette	INFO	Listening on port 51519
+Read port: 51519
+1719350377397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1719350404985	Marionette	INFO	Stopped listening on port 51519
+Dynamically enable window occlusion 1
