@@ -1,0 +1,608 @@
+1720381031772	geckodriver	INFO	Listening on 127.0.0.1:58647
+1720381034829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofile3cfvjS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381035093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381035241	Marionette	INFO	Listening on port 58662
+Read port: 58662
+1720381035384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.botcity.dev/, line 22: ReferenceError: Weglot is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+JavaScript error: https://pt-br.botcity.dev/, line 23: ReferenceError: Weglot is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://pt-br.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+1720381046210	Marionette	INFO	Stopped listening on port 58662
+JavaScript warning: https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.880a48259.js, line 23: Script terminated by timeout at:
+r@https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/js/webflow.880a48259.js:23:377806
+
+Dynamically enable window occlusion 1
+1720381146132	geckodriver	INFO	Listening on 127.0.0.1:58902
+1720381149220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileDEqZjO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381149465	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381149587	Marionette	INFO	Listening on port 58916
+Read port: 58916
+1720381149722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720381157199	Marionette	INFO	Stopped listening on port 58916
+Dynamically enable window occlusion 1
+1720381224498	geckodriver	INFO	Listening on 127.0.0.1:59084
+1720381227548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilejqkL7M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381227790	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381227905	Marionette	INFO	Listening on port 59095
+Read port: 59095
+1720381228035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+1720381257819	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56173
+
+1720381517183	Marionette	INFO	Stopped listening on port 59095
+Dynamically enable window occlusion 1
+1720381530045	geckodriver	INFO	Listening on 127.0.0.1:59468
+1720381533068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileY6wKNC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720381533328	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720381533452	Marionette	INFO	Listening on port 59479
+Read port: 59479
+1720381533582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720381563425	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript, line 65: TypeError: s.createEvent is not a function
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript, line 65: TypeError: s.createEvent is not a function
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript, line 65: TypeError: s.createEvent is not a function
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1720382011304	Marionette	INFO	Stopped listening on port 59479
+Dynamically enable window occlusion 1
+1720382019971	geckodriver	INFO	Listening on 127.0.0.1:59789
+1720382022995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilewd7MzN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382023243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382023365	Marionette	INFO	Listening on port 59803
+Read port: 59803
+1720382023497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/assets/sjs.js?t=638557794327197706 line 1 > srcScript, line 1: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LAMAAB-LCAAAAAAABACNk0FvgkAQhf_Lnl1BEFCObdJDr_bWmGZYRl277JLd0ZgY_3tXKKuSNPUEzPt482YWzqxm5eeZtaxk4uDINJEwmlBTRDts0EUv2BgVva_YhG06VHt0Zxqc7p2vGVbGl0lfdcLKllwQZoPQgtSoQj0Z6oQKj6hrcNxo5RlOeCLDkQtjA768rK8v_B1xtQOLdbTq2z8EbT1pHHegahMM0xBYSfE9baQO0nyQLCogY6XhWwhqNqhQWWnfQCDB3biz_4L2u3z91brLlwBL0f4x9eagBUmjb975c9bgHJIb2_Xnwhvw7MHx6ooG5yLM1LfkkkCZEbQYQ1sHFZDU8jZ9PGaUvNtN-twAH9i0fvH-WYGupd66KImTNAItj2gdXA-kizaesfKh0XVfjt6gN7i1Tnzr9YQJ6r64k982HKHfiSeOvpqniywriuU8TYrZsiji3AvC_xlpnvkbVpI94OUHE3gVDCwDAAA%3d line 1 > srcScript, line 1089: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d line 1 > srcScript, line 216: TypeError: browsingContext.Common.Basket is undefined
+JavaScript error: https://www.bemol.com.br/superoferta line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.bemol.com.br/superoferta?page=1 line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+1720382041528	Marionette	INFO	Stopped listening on port 59803
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1720382081932	geckodriver	INFO	Listening on 127.0.0.1:59986
+1720382084977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilejql0Sw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382085226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382085342	Marionette	INFO	Listening on port 59997
+Read port: 59997
+1720382085478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720382116110	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56173
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1720382204599	Marionette	INFO	Stopped listening on port 59997
+Dynamically enable window occlusion 1
+1720382212367	geckodriver	INFO	Listening on 127.0.0.1:60252
+1720382215377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilezqbsvF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382215629	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382215745	Marionette	INFO	Listening on port 60266
+Read port: 60266
+1720382215878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720382231786	Marionette	INFO	Stopped listening on port 60266
+Dynamically enable window occlusion 1
+1720382470620	geckodriver	INFO	Listening on 127.0.0.1:60669
+1720382473638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileQuhrCr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382473884	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382474004	Marionette	INFO	Listening on port 60684
+Read port: 60684
+1720382474142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/assets/sjs.js?t=638557794327197706 line 1 > srcScript, line 1: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LAMAAB-LCAAAAAAABACNk0FvgkAQhf_Lnl1BEFCObdJDr_bWmGZYRl277JLd0ZgY_3tXKKuSNPUEzPt482YWzqxm5eeZtaxk4uDINJEwmlBTRDts0EUv2BgVva_YhG06VHt0Zxqc7p2vGVbGl0lfdcLKllwQZoPQgtSoQj0Z6oQKj6hrcNxo5RlOeCLDkQtjA768rK8v_B1xtQOLdbTq2z8EbT1pHHegahMM0xBYSfE9baQO0nyQLCogY6XhWwhqNqhQWWnfQCDB3biz_4L2u3z91brLlwBL0f4x9eagBUmjb975c9bgHJIb2_Xnwhvw7MHx6ooG5yLM1LfkkkCZEbQYQ1sHFZDU8jZ9PGaUvNtN-twAH9i0fvH-WYGupd66KImTNAItj2gdXA-kizaesfKh0XVfjt6gN7i1Tnzr9YQJ6r64k982HKHfiSeOvpqniywriuU8TYrZsiji3AvC_xlpnvkbVpI94OUHE3gVDCwDAAA%3d line 1 > srcScript, line 1089: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d line 1 > srcScript, line 216: TypeError: browsingContext.Common.Basket is undefined
+JavaScript error: https://www.bemol.com.br/superoferta line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.bemol.com.br/superoferta?page=1 line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+1720382497161	Marionette	INFO	Stopped listening on port 60684
+Dynamically enable window occlusion 1
+1720382518662	geckodriver	INFO	Listening on 127.0.0.1:60860
+1720382521684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilegtimy4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382521937	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382522060	Marionette	INFO	Listening on port 60871
+Read port: 60871
+1720382522195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720382552558	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56173
+
+1720382583434	Marionette	INFO	Stopped listening on port 60871
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720382598470	geckodriver	INFO	Listening on 127.0.0.1:61072
+1720382601463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofile7t5fKy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382601820	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382601989	Marionette	INFO	Listening on port 61084
+Read port: 61084
+1720382602182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720382632395	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1720382862416	Marionette	INFO	Stopped listening on port 61084
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720382877666	geckodriver	INFO	Listening on 127.0.0.1:61337
+1720382880641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileceBPki"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720382880995	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720382881175	Marionette	INFO	Listening on port 61350
+Read port: 61350
+1720382881371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720382888978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1720382911842	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 453: TypeError: channel is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1720383062079	Marionette	INFO	Stopped listening on port 61350
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720383074486	geckodriver	INFO	Listening on 127.0.0.1:61604
+1720383077503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileUU4KAl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720383077858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720383078033	Marionette	INFO	Listening on port 61617
+Read port: 61617
+1720383078228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/assets/sjs.js?t=638557794327197706 line 1 > srcScript, line 1: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LAMAAB-LCAAAAAAABACNk0FvgkAQhf_Lnl1BEFCObdJDr_bWmGZYRl277JLd0ZgY_3tXKKuSNPUEzPt482YWzqxm5eeZtaxk4uDINJEwmlBTRDts0EUv2BgVva_YhG06VHt0Zxqc7p2vGVbGl0lfdcLKllwQZoPQgtSoQj0Z6oQKj6hrcNxo5RlOeCLDkQtjA768rK8v_B1xtQOLdbTq2z8EbT1pHHegahMM0xBYSfE9baQO0nyQLCogY6XhWwhqNqhQWWnfQCDB3biz_4L2u3z91brLlwBL0f4x9eagBUmjb975c9bgHJIb2_Xnwhvw7MHx6ooG5yLM1LfkkkCZEbQYQ1sHFZDU8jZ9PGaUvNtN-twAH9i0fvH-WYGupd66KImTNAItj2gdXA-kizaesfKh0XVfjt6gN7i1Tnzr9YQJ6r64k982HKHfiSeOvpqniywriuU8TYrZsiji3AvC_xlpnvkbVpI94OUHE3gVDCwDAAA%3d line 1 > srcScript, line 1089: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d line 1 > srcScript, line 216: TypeError: browsingContext.Common.Basket is undefined
+JavaScript error: https://www.bemol.com.br/superoferta line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.bemol.com.br/superoferta?page=1 line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+1720383099899	Marionette	INFO	Stopped listening on port 61617
+Dynamically enable window occlusion 1
+1720383194587	geckodriver	INFO	Listening on 127.0.0.1:61801
+1720383197624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilerTG6t2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720383197972	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720383198132	Marionette	INFO	Listening on port 61812
+Read port: 61812
+1720383198341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720383219861	Marionette	INFO	Stopped listening on port 61812
+Dynamically enable window occlusion 1
+1720383989080	geckodriver	INFO	Listening on 127.0.0.1:62506
+1720383992058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileTQzllo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720383992433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720383992602	Marionette	INFO	Listening on port 62518
+Read port: 62518
+1720383992801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720384023181	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c, line 120: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c:120:158
+fA@https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c:530:134
+gA/<@https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c:530:111
+
+1720384454399	Marionette	INFO	Stopped listening on port 62518
+Dynamically enable window occlusion 1
+1720384461489	geckodriver	INFO	Listening on 127.0.0.1:62828
+1720384464475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileAiqXly"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720384465019	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720384465306	Marionette	INFO	Listening on port 62841
+Read port: 62841
+1720384465622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720384480863	Marionette	INFO	Stopped listening on port 62841
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=mgIAAB-LCAAAAAAABACNkkFvwjAMhf9LzoRSSlvocZN22JXjhCaTmhGWJlXsIiTEf1-gaxiVpu2UyO_L83OSs6hF9XYWraiE6ohdkyhnGS0nvMcGKXnCxpnkdS0mYndDbUBJed0yTQ8Uyk5Us8ukF1rQFk2sp0Od0eARbQ0knTWBkYwndhKlcj7iy8vmeuD3MOs9eKyTdd_-IVIbSEeSwNQuGs6H_mS0-pw22kYpGySPBth57eQHRHUxqLD12r-AQob7uOnsr6D9rT1_a7flXYHn5PCYetdZxdrZu3f-P2sgQqaxXf8usoHAdiS3VzQ6F3GmvqXUDMaNoHIMfRBsgbXVEVmNEaN_XE0a8m8mQvHt1U9hYjhCnysQx1AtsmWel-Vqkc3LdFWWsyIIKvzDrMjDRlTsO7x8AZwhmbOaAgAA line 1 > srcScript, line 1660: Script terminated by timeout at:
+@https://xjz93ig3lx.map.azionedge.net/asset.axd?id=mgIAAB-LCAAAAAAABACNkkFvwjAMhf9LzoRSSlvocZN22JXjhCaTmhGWJlXsIiTEf1-gaxiVpu2UyO_L83OSs6hF9XYWraiE6ohdkyhnGS0nvMcGKXnCxpnkdS0mYndDbUBJed0yTQ8Uyk5Us8ukF1rQFk2sp0Od0eARbQ0knTWBkYwndhKlcj7iy8vmeuD3MOs9eKyTdd_-IVIbSEeSwNQuGs6H_mS0-pw22kYpGySPBth57eQHRHUxqLD12r-AQob7uOnsr6D9rT1_a7flXYHn5PCYetdZxdrZu3f-P2sgQqaxXf8usoHAdiS3VzQ6F3GmvqXUDMaNoHIMfRBsgbXVEVmNEaN_XE0a8m8mQvHt1U9hYjhCnysQx1AtsmWel-Vqkc3LdFWWsyIIKvzDrMjDRlTsO7x8AZwhmbOaAgAA line 1 > srcScript:1660:3
+
+Dynamically enable window occlusion 1
+1720384897734	geckodriver	INFO	Listening on 127.0.0.1:63254
+1720384900701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilefZ2Ne2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720384900954	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720384901096	Marionette	INFO	Listening on port 63280
+Read port: 63280
+1720384901215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720384930984	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56173
+
+1720385120717	Marionette	INFO	Stopped listening on port 63280
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720385135893	geckodriver	INFO	Listening on 127.0.0.1:63531
+1720385138914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilePq8EO3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385139437	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385139579	Marionette	INFO	Listening on port 63545
+Read port: 63545
+1720385139724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720385169693	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+s@https://www.clarity.ms/s/0.7.32/clarity.js:2:1510
+Gn@https://www.clarity.ms/s/0.7.32/clarity.js:2:30484
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56206
+
+1720385389084	Marionette	INFO	Stopped listening on port 63545
+Dynamically enable window occlusion 1
+1720385395133	geckodriver	INFO	Listening on 127.0.0.1:63801
+1720385398144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileb4bhPo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385398397	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385398547	Marionette	INFO	Listening on port 63812
+Read port: 63812
+1720385398590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720385407292	Marionette	INFO	Stopped listening on port 63812
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+Jt@https://www.clarity.ms/s/0.7.32/clarity.js:2:13226
+ae@https://www.clarity.ms/s/0.7.32/clarity.js:2:14562
+ua@https://www.clarity.ms/s/0.7.32/clarity.js:2:33755
+da/</<@https://www.clarity.ms/s/0.7.32/clarity.js:2:36843
+rt/u/</<@https://www.clarity.ms/s/0.7.32/clarity.js:2:7596
+rt/u/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:7701
+o@https://www.clarity.ms/s/0.7.32/clarity.js:2:6418
+
+Dynamically enable window occlusion 1
+1720385439504	geckodriver	INFO	Listening on 127.0.0.1:63948
+1720385442526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileSflQBc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385442786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385442952	Marionette	INFO	Listening on port 63961
+Read port: 63961
+1720385443087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720385452326	Marionette	INFO	Stopped listening on port 63961
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d, line 65: Script terminated by timeout at:
+a/init/Array.prototype.indexOf@https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d:65:978
+ue@https://www.clarity.ms/s/0.7.32/clarity.js:2:14971
+add@https://www.clarity.ms/s/0.7.32/clarity.js:2:16502
+ua@https://www.clarity.ms/s/0.7.32/clarity.js:2:33847
+da/</<@https://www.clarity.ms/s/0.7.32/clarity.js:2:36843
+rt/u/</<@https://www.clarity.ms/s/0.7.32/clarity.js:2:7596
+rt/u/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:7701
+o@https://www.clarity.ms/s/0.7.32/clarity.js:2:6418
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/ContentMetaChild.sys.mjs, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1720385609619	geckodriver	INFO	Listening on 127.0.0.1:64106
+1720385612710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileTgf17U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385612953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385613078	Marionette	INFO	Listening on port 64118
+Read port: 64118
+1720385613215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/assets/sjs.js?t=638557794327197706 line 1 > srcScript, line 1: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LAMAAB-LCAAAAAAABACNk0FvgkAQhf_Lnl1BEFCObdJDr_bWmGZYRl277JLd0ZgY_3tXKKuSNPUEzPt482YWzqxm5eeZtaxk4uDINJEwmlBTRDts0EUv2BgVva_YhG06VHt0Zxqc7p2vGVbGl0lfdcLKllwQZoPQgtSoQj0Z6oQKj6hrcNxo5RlOeCLDkQtjA768rK8v_B1xtQOLdbTq2z8EbT1pHHegahMM0xBYSfE9baQO0nyQLCogY6XhWwhqNqhQWWnfQCDB3biz_4L2u3z91brLlwBL0f4x9eagBUmjb975c9bgHJIb2_Xnwhvw7MHx6ooG5yLM1LfkkkCZEbQYQ1sHFZDU8jZ9PGaUvNtN-twAH9i0fvH-WYGupd66KImTNAItj2gdXA-kizaesfKh0XVfjt6gN7i1Tnzr9YQJ6r64k982HKHfiSeOvpqniywriuU8TYrZsiji3AvC_xlpnvkbVpI94OUHE3gVDCwDAAA%3d, line 1089: TypeError: browsingContext.Common.Shopper is undefined
+JavaScript error: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 216: TypeError: browsingContext.Common.Basket is undefined
+JavaScript error: https://www.bemol.com.br/superoferta line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.bemol.com.br/superoferta?page=1 line 769 > injectedScript, line 1: ReferenceError: $ is not defined
+1720385635707	Marionette	INFO	Stopped listening on port 64118
+Dynamically enable window occlusion 1
+1720385652379	geckodriver	INFO	Listening on 127.0.0.1:64295
+1720385655448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileSeK7rh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720385655695	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720385655817	Marionette	INFO	Listening on port 64308
+Read port: 64308
+1720385655951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720385686329	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-L7JQMK8T9R&l=dataLayer&cx=c, line 542: Script terminated by timeout at:
+ca.qh@https://www.googletagmanager.com/gtag/js?id=G-L7JQMK8T9R&l=dataLayer&cx=c:542:30
+get@https://www.googletagmanager.com/gtag/js?id=G-L7JQMK8T9R&l=dataLayer&cx=c:540:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-L7JQMK8T9R&l=dataLayer&cx=c:540:87
+ca.Hk/c/<@https://www.googletagmanager.com/gtag/js?id=G-L7JQMK8T9R&l=dataLayer&cx=c:540:412
+
+1720386196357	Marionette	INFO	Stopped listening on port 64308
+Dynamically enable window occlusion 1
+1720386204610	geckodriver	INFO	Listening on 127.0.0.1:54036
+1720386207656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileqMTdcZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720386207910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720386208028	Marionette	INFO	Listening on port 54051
+Read port: 54051
+1720386208161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720386237988	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56173
+
+1720386239946	Marionette	INFO	Stopped listening on port 54051
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:912:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:817:38
+
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/content-relevance getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1720386308305	geckodriver	INFO	Listening on 127.0.0.1:54274
+1720386311358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofile3eO401"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720386311602	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720386311723	Marionette	INFO	Listening on port 54289
+Read port: 54289
+1720386311857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720386325148	Marionette	INFO	Stopped listening on port 54289
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript, line 65: Script terminated by timeout at:
+a/init/Array.prototype.indexOf@https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript:65:978
+ue@https://www.clarity.ms/s/0.7.32/clarity.js:2:14971
+add@https://www.clarity.ms/s/0.7.32/clarity.js:2:16502
+ua@https://www.clarity.ms/s/0.7.32/clarity.js:2:33847
+da/</<@https://www.clarity.ms/s/0.7.32/clarity.js:2:36843
+rt/u/</<@https://www.clarity.ms/s/0.7.32/clarity.js:2:7596
+rt/u/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:7701
+o@https://www.clarity.ms/s/0.7.32/clarity.js:2:6418
+
+Dynamically enable window occlusion 1
+1720386451845	geckodriver	INFO	Listening on 127.0.0.1:54425
+1720386454837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileGj7OAs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720386455087	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720386455214	Marionette	INFO	Listening on port 54438
+Read port: 54438
+1720386455357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720386468426	Marionette	INFO	Stopped listening on port 54438
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript, line 65: Script terminated by timeout at:
+a/init/Array.prototype.indexOf@https://xjz93ig3lx.map.azionedge.net/asset.axd?id=yAkAAB-LCAAAAAAABACVllFzojAUhf8Lzw60tUr1tT9hH_Zhpw8hXDEVEia5wWU6_vcNdE0qAhffHD3nfEm4J_IV5dH-z1dUR_vo3RpUVfKuJILE5LfIC0CTFEoVJcRMsrJFwU3yi2tRo4lW0aH3Suc95_FQF392EhXtny4fl9UsQlS1LQ3EFSCbiv-p8dHPZPT_VSEr4sotrQAdSzg3oI1QktjKuMnDX0h4ptXZCFnEnCEUSrcVSDsFHRV72JqE8SPwk7IYZ8ycAGNjq4rp9ggsBz0FnTV5-CsJr7XKLXd-YJofp2i3Kh-_IePdmtzqusPJmJTT2xnqPGK7_FkVWuSxURqnMWNaj0oXH1YpZDfPuWCTpRqRetDbYlBm28wiTg_8ndBDdh1ioFISeCn4yalDE-mWj-2lYVowdK166ASCK_Dpq-CapFk3IRTvWxXy6bZfnbUWHKj4XhTS6XpfjVKhOLi74XwEyRomSpaVJG3UFOh0v28nvhQGl3WjUwYOXfQb9zKET6c7fmDc3XHY1jC7hYEsEOhq_7BqJovJBzPUBQbd6hvv3CjfCQNl99BZQQPlZEHvhOEPkr4Tvs2FVraez-8lIZluux-SSuWsJEepV4V8uu337wgPvE14Ttf7j1XE0UkR_mLy6epp-hynaNy32_XbZpOmu9f1S_q8S9OnrfuBu7e29XbjPkR71BYu_wA6Y54jyAkAAA%3d%3d line 1 > srcScript:65:978
+ue@https://www.clarity.ms/s/0.7.34/clarity.js:2:15107
+add@https://www.clarity.ms/s/0.7.34/clarity.js:2:16638
+la@https://www.clarity.ms/s/0.7.34/clarity.js:2:34181
+pa/</<@https://www.clarity.ms/s/0.7.34/clarity.js:2:37177
+rt/u/</<@https://www.clarity.ms/s/0.7.34/clarity.js:2:7678
+rt/u/<@https://www.clarity.ms/s/0.7.34/clarity.js:2:7783
+o@https://www.clarity.ms/s/0.7.34/clarity.js:2:6500
+
+Dynamically enable window occlusion 1
+1720386602127	geckodriver	INFO	Listening on 127.0.0.1:54650
+1720386605142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileQiErR7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720386605386	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720386605504	Marionette	INFO	Listening on port 54665
+Read port: 54665
+1720386605637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720386635684	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bemol.com.br&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22tld%22:%22bemol.com.br%22,%22topUrl%22:%22www.bemol.com.br%22,%22version%22:%225_26_1%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c, line 120: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c:120:158
+fA@https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c:530:134
+gA/<@https://www.googletagmanager.com/gtag/destination?id=AW-1069750486&l=dataLayer&cx=c:530:111
+
+1720387269827	Marionette	INFO	Stopped listening on port 54665
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1720388162465	geckodriver	INFO	Listening on 127.0.0.1:55530
+1720388165521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofile31d6jS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720388165780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720388165912	Marionette	INFO	Listening on port 55543
+Read port: 55543
+1720388166037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bemol.com.br/, line 2: TypeError: next is null
+JavaScript warning: https://xjz93ig3lx.map.azionedge.net/asset.axd?id=LQUAAB-LCAAAAAAABACdlM9ygjAQxt8lZyeoCChXH6GHHjoeYrJFlCRMstEyju_eyNjYMmLa3hj49vvtsn_ORJDy7UxaUpK1s6hlstYKQWHyWosK0CaV1lUDlCnWdFhzm7xwU7doyYS897HKx54EHero_irRpJxeNpfJU0QtW9dYoBKQjdl_1wTrWdT6lhWyikqfWgWGKjgdwdhaq0gpj4MCfB6Fb40-2VpVlDOESptOgnJj0IfiAEujML4DftAO6ZbZAyC1Tkpmuh0wAWYM-jQowBdReGu0cNzHAzN8N0b7qQr2WdTe5-Szu_6cLVNqvJyhLiDy3_dKasGaaJN6VbAv_jGHfxi-L8wyXsWtjaAESFaP1zHQBcQq3gu_gIL5JTwo3c_OaDOGwvvaxk-C7SyCpK2vP356HorvtOuV2EwIR69G-MBkz47M9lZecfRv83SZZUWxWqTzYrYqimnuP3B_GtM88w-kROPg8gkRxqHHLQUAAA%3d%3d, line 1102: unreachable code after return statement
+1720388196048	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.clarity.ms/s/0.7.32/clarity.js, line 2: Script terminated by timeout at:
+oi/<@https://www.clarity.ms/s/0.7.32/clarity.js:2:56173
+
+1720388210237	Marionette	INFO	Stopped listening on port 55543
+Dynamically enable window occlusion 1

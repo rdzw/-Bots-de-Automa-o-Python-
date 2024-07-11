@@ -1,0 +1,52 @@
+1720289812669	geckodriver	INFO	Listening on 127.0.0.1:64012
+1720289815749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofilenwmkik"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720289816029	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720289816166	Marionette	INFO	Listening on port 64027
+Read port: 64027
+1720289816322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.botcity.dev/, line 22: ReferenceError: Weglot is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://www.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://pt-br.botcity.dev/, line 23: ReferenceError: Weglot is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js, line 16: Error: [MixItUp] An invalid selector or element reference was passed to the mixitup factory function
+JavaScript error: https://herotofutags.com/sticky/v1.js, line 1: TypeError: window.herotofu is undefined
+JavaScript error: https://pt-br.botcity.dev/, line 311: SyntaxError: redeclaration of const containerEl
+1720289829239	Marionette	INFO	Stopped listening on port 64027
+Dynamically enable window occlusion 1
+1720289986052	geckodriver	INFO	Listening on 127.0.0.1:55886
+1720289989085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rodrigo\\AppData\\Local\\Temp\\rust_mozprofileOnFvk5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1720289989318	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1720289989438	Marionette	INFO	Listening on port 55897
+Read port: 55897
+1720289989568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1720290020848	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+JavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 2689: Script terminated by timeout at:
+vq.prototype.transition@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:2689:33
+FO/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:11609:114
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundErroJavaScript warning: https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js, line 475: Script terminated by timeout at:
+Fe<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:475:247
+jha@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:612:50
+Ef@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:613:46
+Kr@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3074:302
+Jr@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3075:179
+Lr@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3076:71
+iJa@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3074:262
+f.finalFlush@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3069:28
+gJa/<@https://www.youtube.com/s/desktop/1d05d8a6/jsbin/desktop_polymer.vflset/desktop_polymer.js:3056:374
+
+1720292894639	Marionette	INFO	Stopped listening on port 56294
+Dynamically enable window occlusion 1
+pt error: https://www.youtube.com/@pythonbrasiloficial, line 12: TypeError: can't access dead object
