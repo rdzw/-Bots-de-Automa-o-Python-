@@ -72,9 +72,7 @@ def main():
         print("avaliação = " + str(elemento))
     
     
-    
 
-    input()
 
     # Wait 3 seconds before closing
     bot.wait(3000)
