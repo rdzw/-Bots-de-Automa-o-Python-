@@ -1,7 +1,8 @@
-<div style="text-align: center;">
-    <img src="https://i.imgur.com/0Qpr4bB.png" alt="Texto alternativo da imagem 1" width="40" style="margin-right: 10px;" />
-    <img src="https://i.imgur.com/qeWq2lG.jpg" alt="Texto alternativo da imagem 2" width="40" />
-</div>
+<p style="text-align: center;">
+    <img src="https://i.imgur.com/0Qpr4bB.png" alt="Texto alternativo da imagem 1" width="40" style="display: inline-block;"/>
+    <img src="https://i.imgur.com/qeWq2lG.jpg" alt="Texto alternativo da imagem 2" width="40" style="display: inline-block;"/>
+</p>
+
 
 # RPA-Python
 
