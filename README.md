@@ -1,5 +1,4 @@
-![Texto alternativo da imagem 1](https://i.imgur.com/0Qpr4bB.png)
-![Texto alternativo da imagem 2](https://i.imgur.com/qeWq2lG.jpg)
+<img src="https://i.imgur.com/0Qpr4bB.png" alt="Texto alternativo da imagem 1" width="40" /><img src="https://i.imgur.com/qeWq2lG.jpg" alt="Texto alternativo da imagem 2" width="40" />
 
 # RPA-Python
 
