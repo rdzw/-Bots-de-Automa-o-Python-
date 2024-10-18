@@ -39,3 +39,5 @@ Este repositório contém uma coleção de scripts de automação de processos r
 ---
 
 Cada bot foi desenvolvido para resolver um problema específico de automação de processos rotineiros, facilitando e acelerando tarefas manuais.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
