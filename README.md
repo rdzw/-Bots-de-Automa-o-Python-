@@ -1,5 +1,6 @@
+<div style="text-align: center;">
 <img src="https://i.imgur.com/0Qpr4bB.png" alt="Texto alternativo da imagem 1" width="40" /><img src="https://i.imgur.com/qeWq2lG.jpg" alt="Texto alternativo da imagem 2" width="40" />
-
+</div>
 # RPA-Python
 
 Este repositório contém uma coleção de scripts de automação de processos robóticos (RPA) desenvolvidos em Python. Cada pasta contém um projeto focado em automação específica de tarefas. Abaixo está uma breve descrição de cada um dos bots:
